@@ -1,6 +1,6 @@
 // Header files are located in the directory named '2.1StartEDK2'
 #include <Uefi.h>
-#include <Library/UEfiLib.h>
+#include <Library/UefiLib.h>
 
 // UefiMain is defined at Loader.inf
 EFI_STATUS EFIAPI UefiMain(EFI_HANDLE image_handle, EFI_SYSTEM_TABLE *system_table) {
