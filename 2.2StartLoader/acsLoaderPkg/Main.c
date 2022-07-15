@@ -1,4 +1,4 @@
-// Header files are located in the directory of '2.1StartEDK2'
+// Header files are located in the directory named '2.1StartEDK2'
 #include <Uefi.h>
 #include <Library/UEfiLib.h>
 
