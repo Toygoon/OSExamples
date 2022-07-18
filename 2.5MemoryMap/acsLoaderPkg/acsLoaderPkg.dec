@@ -1,0 +1,5 @@
+[Defines]
+    DEC_SPECIFICATION = 0x00010005
+    PACKAGE_NAME = acsLoaderPkg
+    PACKAGE_GUID = 3a09e39a-a77a-4202-ac1c-905af8b38d81
+    PACKAGE_VERSION = 0.1
