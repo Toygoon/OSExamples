@@ -1,9 +1,10 @@
 # OSExamples
->Cloning Repository
-* git clone --recurse-submodules git@github.com:Toygoon/OSExamples.git
+- Cloning Repository
 
->Patches
-* [Add fix script for VAL](https://github.com/Toygoon/OSExamples/commit/5d73ae4bdaf76fe77933a720bc89680550c0bb51)
+    * `git clone --recurse-submodules git@github.com:Toygoon/OSExamples.git`
 
->Useful Repositories
-* [mikanos-docker](https://zenn.dev/sarisia/articles/6b57ea835344b6)
+- Patches
+    * [Add fix script for VAL](https://github.com/Toygoon/OSExamples/commit/5d73ae4bdaf76fe77933a720bc89680550c0bb51)
+
+- Useful Repositories
+    * [mikanos-docker](https://zenn.dev/sarisia/articles/6b57ea835344b6)
