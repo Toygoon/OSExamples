@@ -5,7 +5,7 @@ set -x
 
 # Defining values
 DEVENV_DIR=$(dirname "$0")
-EFI_FILE=./Loader.efi
+EFI_FILE=./acsLoader.efi
 DISK_IMG=./disk.img
 MOUNT_POINT=./mnt
 
